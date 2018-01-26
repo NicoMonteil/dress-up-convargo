@@ -1,0 +1,68 @@
+body {
+  background-image: url(https://c.wallhere.com/photos/8d/79/black_red_line_light-795525.jpg!d);
+  text-align: center;
+}
+
+h1 {
+  border: 2px solid red;
+  text-align: center;
+  color: orange;
+  margin-left: 490px;
+  margin-right: 490px;
+}
+
+img{
+  width: 20%;
+  height: 20%;
+  position: relative;
+  left: 40%;
+  }
+
+.name{
+  background-color: orange;
+  color: black;
+  border-color: red;
+}
+
+.price-by-km{
+  background-color: orange;
+  color: black;
+  border-color: red;
+}
+
+.price-by-cubic{
+  background-color: orange;
+  color: black;
+  border-color: red;
+}
+
+.distance{
+  background-color: orange;
+  color: black;
+  border-color: red;
+}
+
+.volume{
+  background-color: orange;
+  color: black;
+  border-color: red;
+}
+
+#checkbox{
+  color: orange;
+}
+
+#actors{
+  color: orange;
+}
+
+#footer{
+  right: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+#compute{
+  background-color: orange;
+  border-color: red;
+}
